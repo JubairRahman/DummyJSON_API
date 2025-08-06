@@ -1,10 +1,6 @@
 # 🔐 DummyJSON API Postman Testing Project  
 
-[![Postman](https://img.shields.io/badge/Tested%20With-Postman-orange?logo=postman&logoColor=white)](https://www.postman.com/)  
-[![Newman](https://img.shields.io/badge/Run%20With-Newman-blue?logo=node.js&logoColor=white)](https://www.npmjs.com/package/newman)  
-[![HTML Reports](https://img.shields.io/badge/Reports-HTML-green?logo=google-chrome&logoColor=white)](#)  
-[![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)  
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](#)  
+[![Postman](https://img.shields.io/badge/Tested%20With-Postman-orange?logo=postman&logoColor=white)](https://www.postman.com/)  [![Newman](https://img.shields.io/badge/Run%20With-Newman-blue?logo=node.js&logoColor=white)](https://www.npmjs.com/package/newman)   [![HTML Reports](https://img.shields.io/badge/Reports-HTML-green?logo=google-chrome&logoColor=white)](#)   [![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](#)  
 
 ---
 
